@@ -44,7 +44,7 @@ To  play :
                         * Set up player (ship) position and size
                         * Created arrays for aliens and bullets
 
-                        ![Calculation](Calculation.jpg)
+                        ![Calculation](images/Calculation.jpg)
 
                - Load Images
 
