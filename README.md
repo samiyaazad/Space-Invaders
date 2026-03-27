@@ -44,7 +44,7 @@ To  play :
                         * Set up player (ship) position and size
                         * Created arrays for aliens and bullets
 
-                        ![Calculation](images/Calculation.jpg)
+
 
                - Load Images
 
@@ -115,3 +115,9 @@ This project helped me understand how real-time games work, including rendering,
 
 https://github.com/user-attachments/assets/36e7c3f8-28ce-4bb4-82b6-8f12f5649b36
 
+
+
+## The calculation 
+
+All calculations I did. 
+![Calculation](Calculation.jpg)
