@@ -45,7 +45,6 @@ To  play :
                         * Created arrays for aliens and bullets
 
 
-
                - Load Images
 
                         * Loaded ship and alien images using JavaScript Image()
